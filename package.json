@@ -1,0 +1,67 @@
+{
+  "name": "signinsystem",
+  "version": "1.0.0",
+  "description": "BPSOS sign in system for clients, volunteers, and employees.",
+  "main": "index.js",
+  "babel": {
+    "presets": [
+      "es2015",
+      "react"
+    ]
+  },
+  "engines": {
+    "node": "4.5.0",
+    "npm": "3.10.6"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "babel-node": "babel-node --presets=es2015 --ignore='foo|bar|baz'",
+    "start": "node app.js"
+  },
+  "keywords": [
+    "sign-in",
+    "react",
+    "redux",
+    "react-bootstrap",
+    "expressjs",
+    "nodejs"
+  ],
+  "author": "Kim Nguyen",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "2.5.1",
+    "express": "4.14.0",
+    "firebase": "3.3.0",
+    "lodash": "4.14.2",
+    "path": "0.12.7",
+    "react": "15.2.1",
+    "react-bootstrap": "0.30.0",
+    "react-dom": "15.2.1",
+    "react-redux": "4.4.5",
+    "react-router": "2.6.1",
+    "react-router-bootstrap": "0.23.1",
+    "react-router-redux": "4.0.5",
+    "redux": "3.5.2",
+    "redux-thunk": "2.1.0"
+  },
+  "devDependencies": {
+    "babel-core": "^6.11.4",
+    "babel-loader": "^6.2.5",
+    "babel-preset-es2015": "^6.13.2",
+    "babel-preset-react": "^6.11.1",
+    "babelify": "^7.3.0",
+    "browser-sync": "^2.14.0",
+    "browserify": "^13.1.0",
+    "gulp": "3.9.1",
+    "gulp-nodemon": "^2.1.0",
+    "gulp-webpack": "1.5.0",
+    "nodemon": "^1.10.0",
+    "react-hot-loader": "^1.3.0",
+    "vinyl-source-stream": "^1.1.0",
+    "webpack": "^1.13.1",
+    "webpack-dev-middleware": "^1.6.1",
+    "webpack-hot-middleware": "^2.12.2",
+    "webpack-module-hot-accept": "^1.0.4",
+    "webpack-stream": "^3.2.0"
+  }
+}
