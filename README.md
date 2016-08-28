@@ -15,6 +15,9 @@
   
   Feel free to modify employees, modify programs and search for a specific person.
 
+<b>Main concern:</b> Some have asked if a person can pretend to be a volunteer/employee and sign into the application from anywhere as he/she chooses. 
+The application does require signing into the account in order to be able to sign-in and out. In practice, only admin will be able to open the application in a designated device to allow log-in.
+
 <b>Future adjustments/improvements (scheduled for December 2016):</b>
   The forms will be broken into smaller individual components of form types.
   For example, instead of repeating exact same codes in clients and volunteers, 
@@ -25,4 +28,4 @@
   
   I will look into smoother transition as feedback for form submission.
   
-  Dynamic resizing?
+  Dynamic resizing? 
