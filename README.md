@@ -28,6 +28,8 @@
   I will look into smoother transition as feedback for form submission.
   
   Dynamic resizing? 
+  
+  Finally, I would like to focus more on testing react & redux components and practice more with propType. 
 
 <b>It takes a Youtube village:</b>
 I used the following links to learn Redux.
